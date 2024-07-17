@@ -67,3 +67,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+- 💻 Some Projects I have worked on
+
+
+<h2>HTML CSS</h2>
+- <b>brat Fan Page</b>
+  - [An HTML and CSS fan page celebrating Charli XCX's album 'Brat' with a tracklist, imagery, and vibrant design.](https://github.com/Samantha-Sutter/brat-album-site) 
+- <b>shxde Music Artist Page</b>
+  - [This project showcases a responsive website for the music artist shxde, featuring a cyberpunk aesthetic and built entirely with HTML, CSS, and basic JavaScript.](https://github.com/Samantha-Sutter/music-artist-shxde-site) 
+
+<h2>C# Projects:</h2>
+- <b>Trivia Game</b>
+  - [Answers held on text file, displays right or wrong](https://github.com/SamanthaSutter/Sutter_TriviaGame) 
+- <b>Farmer Game</b>
+  - [The chicken, grain and the fox game](https://github.com/SamanthaSutter/Sutter_Farmer_Game) 
+- <b>BMI Calculator</b>
+  - [Calculates BMI](https://github.com/SamanthaSutter/Sutter_BMICalculator) 

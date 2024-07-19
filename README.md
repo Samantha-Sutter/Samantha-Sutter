@@ -68,19 +68,22 @@
   </a>
 </p>
 
-- 💻 Some Projects I have worked on
+## 💻 Some Projects I Have Worked On
 
+### HTML & CSS
+- **[brat Fan Page](https://github.com/Samantha-Sutter/brat-album-site)**
+  - An HTML and CSS fan page celebrating Charli XCX's album 'Brat' with a tracklist, imagery, and vibrant design.
+  
+- **[shxde Music Artist Page](https://github.com/Samantha-Sutter/music-artist-shxde-site)**
+  - This project showcases a responsive website for the music artist shxde, featuring a cyberpunk aesthetic and built entirely with HTML, CSS, and basic JavaScript.
 
-<h2>HTML CSS</h2>
-- <b>brat Fan Page</b>
-  - [An HTML and CSS fan page celebrating Charli XCX's album 'Brat' with a tracklist, imagery, and vibrant design.](https://github.com/Samantha-Sutter/brat-album-site) 
-- <b>shxde Music Artist Page</b>
-  - [This project showcases a responsive website for the music artist shxde, featuring a cyberpunk aesthetic and built entirely with HTML, CSS, and basic JavaScript.](https://github.com/Samantha-Sutter/music-artist-shxde-site) 
+### C# Projects
+- **[Trivia Game](https://github.com/SamanthaSutter/Sutter_TriviaGame)**
+  - A trivia game where answers are held in a text file and it displays right or wrong answers.
 
-<h2>C# Projects:</h2>
-- <b>Trivia Game</b>
-  - [Answers held on text file, displays right or wrong](https://github.com/SamanthaSutter/Sutter_TriviaGame) 
-- <b>Farmer Game</b>
-  - [The chicken, grain and the fox game](https://github.com/SamanthaSutter/Sutter_Farmer_Game) 
-- <b>BMI Calculator</b>
-  - [Calculates BMI](https://github.com/SamanthaSutter/Sutter_BMICalculator) 
+- **[Farmer Game](https://github.com/SamanthaSutter/Sutter_Farmer_Game)**
+  - A game involving the classic chicken, grain, and fox puzzle.
+
+- **[BMI Calculator](https://github.com/SamanthaSutter/Sutter_BMICalculator)**
+  - A simple application that calculates BMI.
+

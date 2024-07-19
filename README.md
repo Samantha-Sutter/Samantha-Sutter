@@ -77,7 +77,11 @@
 - **[shxde Music Artist Page](https://github.com/Samantha-Sutter/music-artist-shxde-site)**
   - This project showcases a responsive website for the music artist shxde, featuring a cyberpunk aesthetic and built entirely with HTML, CSS, and basic JavaScript.
 
-### C# Projects
+### JavaScript
+- **[Mock iPhone Website](https://github.com/Samantha-Sutter/mock-iphone)**
+  - This project is a mock iPhone site designed to showcase the iPhone 15 Pro, featuring smooth GSAP animations, dynamic 3D model rendering, a custom video carousel, and a fully responsive design with a focus on clean code architecture and reusability.
+
+### C#
 - **[Trivia Game]()**
   - A trivia game where answers are held in a text file and it displays right or wrong answers.
 

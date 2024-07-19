@@ -78,12 +78,12 @@
   - This project showcases a responsive website for the music artist shxde, featuring a cyberpunk aesthetic and built entirely with HTML, CSS, and basic JavaScript.
 
 ### C# Projects
-- **[Trivia Game](https://github.com/SamanthaSutter/Sutter_TriviaGame)**
+- **[Trivia Game]()**
   - A trivia game where answers are held in a text file and it displays right or wrong answers.
 
-- **[Farmer Game](https://github.com/SamanthaSutter/Sutter_Farmer_Game)**
+- **[Farmer Game]()**
   - A game involving the classic chicken, grain, and fox puzzle.
 
-- **[BMI Calculator](https://github.com/SamanthaSutter/Sutter_BMICalculator)**
+- **[BMI Calculator]()**
   - A simple application that calculates BMI.
 

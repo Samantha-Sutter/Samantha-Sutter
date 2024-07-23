@@ -90,6 +90,6 @@
 - **[Farmer Game](https://github.com/Samantha-Sutter/fox-chicken-grain)**
   - This C# console application recreates the classic puzzle where a farmer needs to transport a chicken, a fox, and a bag of grain across a river.
 
-- **[BMI Calculator]()**
-  - A simple application that calculates BMI.
+- **[Student Grades Application](https://github.com/Samantha-Sutter/student-grades)**
+  - This C# console application manages student grades by reading data from a file and calculating the average grade and corresponding letter grade for each student.
 

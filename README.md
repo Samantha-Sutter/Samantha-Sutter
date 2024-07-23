@@ -75,6 +75,9 @@
   
 - **[shxde Music Artist Page](https://github.com/Samantha-Sutter/music-artist-shxde-site)**
   - This project showcases a responsive website for the music artist shxde, featuring a cyberpunk aesthetic and built entirely with HTML, CSS, and basic JavaScript.
+ 
+- **[Camping Sign Up Site](https://github.com/Samantha-Sutter/camp-form)**
+  - This project demonstrates a simple, yet effective form for signing up for an overnight camping experience. It uses HTML and CSS to create a responsive and user-friendly interface.
 
 ### JavaScript
 - **[Mock iPhone Website](https://github.com/Samantha-Sutter/mock-iphone)**

@@ -84,11 +84,11 @@
   - This project is a mock iPhone site designed to showcase the iPhone 15 Pro, featuring smooth GSAP animations, dynamic 3D model rendering, a custom video carousel, and a fully responsive design with a focus on clean code architecture and reusability.
 
 ### C#
-- **[Trivia Game]()**
-  - A trivia game where answers are held in a text file and it displays right or wrong answers.
+- **[Trivia Game](https://github.com/Samantha-Sutter/trivia-game)**
+  - A console-based trivia game developed in C#. The game reads questions from a text file and quizzes the player, providing immediate feedback on their answers and an explanation for each question. 
 
-- **[Farmer Game]()**
-  - A game involving the classic chicken, grain, and fox puzzle.
+- **[Farmer Game](https://github.com/Samantha-Sutter/fox-chicken-grain)**
+  - This C# console application recreates the classic puzzle where a farmer needs to transport a chicken, a fox, and a bag of grain across a river.
 
 - **[BMI Calculator]()**
   - A simple application that calculates BMI.

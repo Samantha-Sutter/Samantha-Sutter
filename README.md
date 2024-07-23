@@ -67,7 +67,7 @@
   </a>
 </p>
 
-## 💻 Some Projects I Have Worked On
+<h2 align="center"> 💻 Some Projects I Have Worked On </h2>
 
 ### HTML & CSS
 - **[brat Fan Page](https://github.com/Samantha-Sutter/brat-album-site)**

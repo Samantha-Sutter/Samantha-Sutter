@@ -66,8 +66,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
-<h2 align="center"> 💻 Some Projects I Have Worked On </h2>
+<br>
+<h2> 💻 Some Projects I Have Worked On </h2>
 
 ### HTML & CSS
 - **[brat Fan Page](https://github.com/Samantha-Sutter/brat-album-site)**
